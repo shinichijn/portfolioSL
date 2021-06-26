@@ -193,6 +193,8 @@
     ul.office-details li i {
         width: 25px;
     }
+
+    
 }
 
 
@@ -391,9 +393,15 @@
     #contact-left {
         text-align: center;
     }
+
+
     .office {
+        text-align: left;
+        margin-left: 100px;
         margin-bottom: 40px;
     }
+
+
     ul.office-details li {
         display: block;
         margin-top: 25px;
